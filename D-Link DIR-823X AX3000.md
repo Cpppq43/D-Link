@@ -11,7 +11,7 @@ Affected Object Type: Network Device
 
 Affected Product: D-Link DIR-823X AX3000
 
-Affected Product Versions: All versions (including V1.0)
+Affected Product Versions: <=250416
 
 Product Component Vulnerability: No
 ## 1. Vulnerability Overview
